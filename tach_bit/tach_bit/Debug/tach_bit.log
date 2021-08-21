@@ -1,0 +1,3 @@
+﻿  tach_bit.c
+C:\Users\ASUS\Documents\baitestc_cpp\tach_bit\tach_bit\tach_bit.c(19,9): warning C4244: '=': conversion from 'int16_t' to 'int8_t', possible loss of data
+  tach_bit.vcxproj -> C:\Users\ASUS\Documents\baitestc_cpp\tach_bit\Debug\tach_bit.exe
